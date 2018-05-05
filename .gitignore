@@ -1,0 +1,9 @@
+*
+!.gitignore
+
+# files that get checked in
+!autoconfig.cfg
+!config.cfg
+!crosshair.cfg
+!practice.cfg
+!buybinds.cfg
