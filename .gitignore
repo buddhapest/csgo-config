@@ -4,6 +4,7 @@
 # files that get checked in
 !autoconfig.cfg
 !config.cfg
+!controls.cfg
 !crosshair.cfg
 !practice.cfg
 !buybinds.cfg
